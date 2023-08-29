@@ -1,45 +1,70 @@
-# Subdomain Brute Force Wordlist
+<div align="center">
+  <img src="your_logo_here.png" alt="Project Logo">
+</div>
 
-![Project Logo](your_logo_here.png) <!-- Add your project logo if you have one -->
+# Subdomain Brute Force and DNS Resolver
+
+Welcome to the Subdomain Brute Force and DNS Resolver repository. This project provides a curated list of subdomain words for ethical hacking, security assessments, and domain analysis. The `subdomain-wordlist` file offers a comprehensive collection of subdomain words, while the `resolver.txt` file contains DNS resolver IP addresses to aid DNS enumeration.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Files](#files)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Maintainers](#maintainers)
+- [Author](#author)
+- [License](#license)
+- [YouTube](#youtube)
+- [Contact](#contact)
 
 ## Introduction
 
-This repository contains a subdomain brute force wordlist that has been collected and compiled for various purposes, primarily for ethical hacking and security testing. The wordlist aims to assist in identifying potential security vulnerabilities in systems under proper authorization.
+This repository serves as a valuable resource for security professionals, providing essential assets for subdomain enumeration and DNS resolution. The included files are designed to aid ethical hacking, security testing, and domain research efforts.
 
-## Wordlist Details
+## Files
 
-- **Wordlist Size:** 818.3 MB
-- **Number of Subdomain Words:** 43,042,336
+1. [`subdomain-wordlist`](https://drive.google.com/file/d/16KLYFTijq0Lemq4ZhibGl1leeN0AXjhA/view?usp=sharing): A comprehensive collection of subdomain words for use in security testing.
+2. [`resolver.txt`](https://github.com/shubham-rooter/SubdomainBruteForceWordlist/blob/main/resolvers.txt): DNS resolver IP addresses to assist in DNS enumeration.
 
-## Usage Guidelines
+## Usage
 
-Before utilizing this wordlist, please consider the following:
+1. Download the [`subdomain-wordlist`](https://drive.google.com/file/d/16KLYFTijq0Lemq4ZhibGl1leeN0AXjhA/view?usp=sharing) file to enhance your security assessments.
+2. Use the [`resolver.txt`](https://github.com/shubham-rooter/SubdomainBruteForceWordlist/blob/main/resolvers.txt) file to perform DNS enumeration during your testing.
 
-- This wordlist is intended for responsible and ethical purposes only.
-- Ensure you have explicit permission to perform security testing on the systems you use this wordlist against.
-- Always follow legal and ethical standards while conducting security assessments.
-- Misuse of this wordlist for unauthorized access or malicious activities is strictly prohibited.
-- This project and its creator(s) do not endorse any illegal or unethical use of this wordlist.
+## Contributing
 
-## Maintainers :
+We welcome contributions that align with our project's goals. Please follow our contribution guidelines when submitting changes.
 
-This Repo is maintained by:
+[Guidelines for contributing go here.]
+
+## Maintainers
+
+This repository is maintained by:
 
 - [Shubham Rooter](https://github.com/shubham-rooter)
 
-### Author :
+## Author
 
-**Shubham Rooter**
+- **Shubham Rooter**
+  - [GitHub](https://www.github.com/shubham-rooter)
+  - [Twitter](https://www.twitter.com/shubhamtiwari_r)
+  - [Instagram](https://www.instagram.com/shubham_rooter)
+  - [LinkedIn](https://www.linkedin.com/in/shubham-tiwari09/)
 
-* [Github](https://www.github.com/shubham-rooter)
-* [Twitter](https://www.twitter.com/shubhamtiwari_r)
-* [Instagram](https://www.instagram.com/shubham_rooter)
-* [LinkedIn](https://www.linkedin.com/in/shubham-tiwari09/)  
-
-### License :
+## License
 
 Copyright © 2023, [Shubham Rooter](https://github.com/Shubham-Rooter).
 Released under the [MIT License](LICENSE).
 
-***Thank you.***
-***Happy Hunting..***
+## YouTube
+
+Subscribe to my YouTube channel, [RooterHacks](https://www.youtube.com/@RooterHacks), for tutorials and insights on ethical hacking and security.
+
+## Contact
+
+If you have any questions, feedback, or suggestions, feel free to contact us at [your_email_here]. We value your input.
+
+<div align="center">
+  <sub>Thank you for contributing to a safer digital environment. Happy Hunting!</sub>
+</div>
