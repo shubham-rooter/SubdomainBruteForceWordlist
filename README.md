@@ -24,7 +24,7 @@ This repository serves as a valuable resource for security professionals, provid
 
 ## Files
 
-1. [`subdomain-wordlist`](https://drive.google.com/file/d/16KLYFTijq0Lemq4ZhibGl1leeN0AXjhA/view?usp=sharing): A comprehensive collection of subdomain words for use in security testing.
+1. [`subdomain-wordlist`](https://github.com/shubham-rooter/SubdomainBruteForceWordlist/blob/main/Subdomain-wordlist): A comprehensive collection of subdomain words for use in security testing.
 2. [`resolver.txt`](https://github.com/shubham-rooter/SubdomainBruteForceWordlist/blob/main/resolvers.txt): DNS resolver IP addresses to assist in DNS enumeration.
 
 ## Usage
